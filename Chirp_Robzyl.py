@@ -2,28 +2,6 @@
 # Adapted For UV-K5 EGZUMER custom software By EGZUMER, JOC2
 #
 # based on template.py Copyright 2012 Dan Smith <dsmith@danplanet.com>
-#
-#
-# This is a preliminary version of a driver for the UV-K5
-# It is based on my reverse engineering effort described here:
-# https://github.com/sq5bpf/uvk5-reverse-engineering
-#
-# Warning: this driver is experimental, it may brick your radio,
-# eat your lunch and mess up your configuration.
-#
-#
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 2 of the License, or
-# (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
 import struct
@@ -744,7 +722,7 @@ def list_def(value, lst, default):
 class UVK5Radio(chirp_common.CloneModeRadio):
     """Quansheng UV-K5"""
     VENDOR = "Quansheng"
-    MODEL = "UV-K5 (ROBBY69)"
+    MODEL = "UV-K5 ROBZYL"
     BAUD_RATE = 38400
     NEEDS_COMPAT_SERIAL = False
     FIRMWARE_VERSION = ""
