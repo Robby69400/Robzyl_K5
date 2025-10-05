@@ -65,17 +65,17 @@ Les liens vers les différentes ressources sont accessibles en fin de document (
 
 ## Les modes VFO et Mémoire
 
-Ces modes sont accessibles alternativement par un appui long sur la touche 3.
+Ces modes sont accessibles alternativement par un appui long sur la touche 3. En haut de l'écran, 3 niveaux sont reportés : GL Glitch, RS RSSI et NO Noise.
 
 ### Mode VFO
 
-<img width="512" height="320" alt="k5 robzyl mode vfo" src="https://github.com/user-attachments/assets/77e69564-a535-4582-8ed0-c3c1ae24f81a" />
+<img width="512" height="320" alt="screenshot_2025-10-04_21-32-11-731Z" src="https://github.com/user-attachments/assets/deaa65fd-f563-43cc-8d43-6f67e6e871ff" />
 
 Le mode simple VFO permet de saisir librement une fréquence. Le menu touche M donne accès à tous les paramètres de step, modulation, etc.
 
 ### Mode Mémoire
 
-<img width="512" height="320" alt="k5 robzyl mode mr" src="https://github.com/user-attachments/assets/ba677450-09dc-4636-a939-73ecc01dde58" />
+<img width="512" height="320" alt="screenshot_2025-10-04_21-30-50-553Z" src="https://github.com/user-attachments/assets/0834c2ce-2328-4c7b-851f-890313e5dcc2" />
 
 Cet autre mode permet de naviguer dans la banque des 200 mémoires nommées du K5. Cette banque est à préparer et à injecter dans le K5 depuis Chirp.
 
@@ -85,7 +85,7 @@ Cet autre mode permet de naviguer dans la banque des 200 mémoires nommées du K
 
 Ecran principal :
 
-<img width="512" height="320" alt="k5 robzyl mode spectre 2" src="https://github.com/user-attachments/assets/e734ff63-1fbe-4398-9b4f-89d9df509abd" />
+<img width="512" height="320" alt="screenshot_2025-10-05_14-28-17-315Z" src="https://github.com/user-attachments/assets/6cce5d99-b7c2-4144-aecf-852e9f1d6629" />
 
 - Ligne 1 :
     * Type de spectre : SL (Scan Listes), FQ (Plage de fréquences), BD (Bandes => le code bande apparait en 1er)
@@ -122,7 +122,7 @@ Ecran principal :
 
 ### Menu des paramètres
 
-<img width="512" height="320" alt="k5 robzyl mode spectre params" src="https://github.com/user-attachments/assets/917fbf9c-684e-4fdb-965a-1efc886efa0d" />
+<img width="512" height="320" alt="screenshot_2025-10-05_14-32-13-994Z" src="https://github.com/user-attachments/assets/9078e00c-1f75-4392-a601-f3609348f452" />
 
 - RSSI Delay : temps de capture du RSSI en ms. Une valeur trop faible peut faire rater des signaux.
 - SpectrumDelay : Permet de définir le temps d’attente sur un signal à l’écoute et retombé sous le squelch. Si la valeur est à l’infini : pressez la touche Exit pour quitter l’écran d’écoute.
@@ -135,19 +135,19 @@ Ecran principal :
 
 ### Spectre en vue simplifiée
 
-<img width="512" height="320" alt="k5 robzyl mode spectre view scan" src="https://github.com/user-attachments/assets/f1be7191-62bf-4799-bd4e-f27695071677" />
+<img width="512" height="320" alt="screenshot_2025-10-05_14-34-58-915Z" src="https://github.com/user-attachments/assets/e8695e3a-1f62-4036-8a89-6981e7c63f9c" />
 
 Cet écran offre une vue plus synthétique du scan en cours tout en permettant le réglage aisé des paramètres de squelch.
 
 ### Monitoring de fréquence
 
-<img width="512" height="320" alt="k5 robzyl mode spectre view monitor" src="https://github.com/user-attachments/assets/3207cdd5-de73-4c2d-86db-88a2d84b3d04" />
+<img width="512" height="320" alt="screenshot_2025-10-05_14-36-09-820Z" src="https://github.com/user-attachments/assets/857d8dd4-fa79-4507-ab95-2946183717ec" />
 
 Le monitor se lance avec la touche M sur une fréquence en écoute.
 
 ### Historique des fréquences
 
-<img width="512" height="320" alt="k5 robzyl mode spectre hist" src="https://github.com/user-attachments/assets/1cabb0e7-a01c-4ad4-ada8-69a297e5989a" />
+<img width="512" height="320" alt="screenshot_2025-10-05_14-38-50-421Z" src="https://github.com/user-attachments/assets/5627c391-008e-4442-af0d-c41065b5d612" />
 
 L'historique évolue dynamiquement au gré des fréquences reçues. Il est possible de naviguer dans la liste, touche M pour passer en monitoring sur la fréquence. Et touche PTT pour copier la fréquence vers le mode VFO.
 
@@ -167,7 +167,7 @@ L'historique évolue dynamiquement au gré des fréquences reçues. Il est possi
   - A la première utilisation, passer dans chaque SL (^/v) pour ajuster les paramètres de squelch U puis mémoriser vos valeurs avec la touche 7. 
   - Enfin charger vos SL dans le spectre via le menu de sélection en touche 4.
 
-<img width="512" height="320" alt="k5 robzyl mode SL menu" src="https://github.com/user-attachments/assets/13e11bec-98d2-4a41-b19a-1cd966d58f4a" />
+<img width="512" height="320" alt="screenshot_2025-10-05_14-38-50-421Z" src="https://github.com/user-attachments/assets/eea95ec1-ad3f-4342-a4b2-7ecbe41d024a" />
 
 On navigue dans ce menu avec les touches ^/v
   - Touche 5 : choisir une SL en excluant les autres
@@ -216,14 +216,13 @@ Les modulations parmis:
 	MODULATION_AM,
 	MODULATION_SSB,
 
-
-<img width="1000" height="230" alt="image" src="https://github.com/user-attachments/assets/208477f1-229c-46ff-8638-7c9fedabff48" />
+<img width="741" height="130" alt="bands h" src="https://github.com/user-attachments/assets/dc352144-cb45-4a49-b9cb-8a8375f98935" />
 
 De la même manière qu’en mode SL, il est demandé à la 1ère utilisation de paramétrer et sauvegarder la valeurs du squelch sur les bandes qui vous intéressent. Touches ^/v pour naviguer dans les bandes.
 
 Ensuite le menu touche 4 permet de choisir les bandes à analyser de la même manière que le menu en mode SL :
 
-<img width="512" height="320" alt="k5 robzyl mode BD menu" src="https://github.com/user-attachments/assets/c2309b8d-dc64-4c62-be87-85b1f2460aed" />
+<img width="741" height="130" alt="bands h" src="https://github.com/user-attachments/assets/b1fda108-b509-4326-8f47-d24f49db53e4" />
 
 ## Compilation
 ### Méthode de construction Github Codespace
