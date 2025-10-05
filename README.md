@@ -65,17 +65,17 @@ Les liens vers les différentes ressources sont accessibles en fin de document (
 
 ## Les modes VFO et Mémoire
 
-Ces modes sont accessibles alternativement par un appui long sur la touche 3. En haut de l'écran, 3 niveaux sont reportés : GL Glitch, RS RSSI et NO Noise.
+Ces modes sont accessibles alternativement par un appui long sur la touche 3. En haut de l'écran, 3 niveaux sont reportés : GL Glitch, RS RSSI et NO Noise. Puis en partie latérale drite, le niveau de l'audio.
 
 ### Mode VFO
 
-<img width="512" height="320" alt="screenshot_2025-10-04_21-32-11-731Z" src="https://github.com/user-attachments/assets/deaa65fd-f563-43cc-8d43-6f67e6e871ff" />
+<img width="512" height="320" alt="screenshot_2025-10-04_21-30-50-553Z" src="https://github.com/user-attachments/assets/0834c2ce-2328-4c7b-851f-890313e5dcc2" />
 
 Le mode simple VFO permet de saisir librement une fréquence. Le menu touche M donne accès à tous les paramètres de step, modulation, etc.
 
 ### Mode Mémoire
 
-<img width="512" height="320" alt="screenshot_2025-10-04_21-30-50-553Z" src="https://github.com/user-attachments/assets/0834c2ce-2328-4c7b-851f-890313e5dcc2" />
+<img width="512" height="320" alt="screenshot_2025-10-04_21-32-11-731Z" src="https://github.com/user-attachments/assets/deaa65fd-f563-43cc-8d43-6f67e6e871ff" />
 
 Cet autre mode permet de naviguer dans la banque des 200 mémoires nommées du K5. Cette banque est à préparer et à injecter dans le K5 depuis Chirp.
 
@@ -222,7 +222,7 @@ De la même manière qu’en mode SL, il est demandé à la 1ère utilisation de
 
 Ensuite le menu touche 4 permet de choisir les bandes à analyser de la même manière que le menu en mode SL :
 
-<img width="741" height="130" alt="bands h" src="https://github.com/user-attachments/assets/b1fda108-b509-4326-8f47-d24f49db53e4" />
+<img width="512" height="320" alt="screenshot_2025-10-05_14-44-35-765Z" src="https://github.com/user-attachments/assets/938d3712-3cd3-4588-8c66-cb17d3016c6f" />
 
 ## Compilation
 ### Méthode de construction Github Codespace
