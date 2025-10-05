@@ -1,5 +1,5 @@
+># [**Translate 🌐**](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/Robby69400/Robzyl_K5/)
 # Firmware Quansheng UV-K5 - Robzyl
-## The software is in English, and the available versions correspond to the target countries for the bands: France, Poland, and Romania. These bands can be customized; see the manual. 
 ## Le logiciel est en anglais, les versions disponibles correspondent aux pays cibles pour les bandes: France, Pologne, Roumanie, Turquie, Russie, Tchequie. Ces bandes peuvent se personaliser, voir le manuel.
 ### Many thanks to Zylka, Yves31 and Francois87.
 
