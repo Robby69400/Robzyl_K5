@@ -224,27 +224,6 @@ Ensuite le menu touche 4 permet de choisir les bandes à analyser de la même ma
 
 <img width="512" height="320" alt="screenshot_2025-10-05_14-44-35-765Z" src="https://github.com/user-attachments/assets/938d3712-3cd3-4588-8c66-cb17d3016c6f" />
 
-## Compilation
-### Méthode de construction Github Codespace
-
-Vous n'avez rien à installer sur votre ordinateur. Un compte Github suffit.
-
-1. Accédez à https://github.com/Robby69400/UV-K5-Firmware-Robby69
-2. Cliquez sur le bouton vert « Code »
-3. Passez de « Local » à « Espace de code »
-4. Cliquez sur le bouton vert « Créer un espace de code sur la page principale »
-
-<img width="773" height="715" alt="Code_Space_1" src="https://github.com/user-attachments/assets/3d8a093d-7c8e-4f5c-abf9-f222a51fff52" />
-
-5. Ouvrez le fichier « Makefile », modifiez les options de compilation et enregistrez les modifications.
-6. Si nécessaire, ouvrez le fichier « Linux_compile-with-docker.sh », modifiez les versions de compilation et enregistrez les modifications.
-7. Exécutez dans un terminal
-- « ./Linux_compile-with-docker.sh all » pour compiler tout. Versions
-8. Ouvrez le dossier « compiled-firmware »
-9. Faites un clic droit sur « firmware.packed.bin »
-10. Cliquez sur « Télécharger ». Vous devriez maintenant avoir un firmware sur votre ordinateur, que vous pouvez flasher sur votre radio. Vous pouvez utiliser [un flasheur en ligne](https://egzumer.github.io/uvtools)
-
-
 ## FAQ
 
 - Est-il possible de verrouiller son K5 en bande PMR uniquement ? :
