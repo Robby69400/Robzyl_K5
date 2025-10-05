@@ -190,7 +190,7 @@ Les SL choisies apparaissent avec un symbole \*. Puis faire Exit pour lancer le 
 - Fonction : Permet d’analyser en spectre des bandes prédéfinies (ex. PMR, CB, AERO, HAM, etc.).
 - Lancement : Depuis le mode VFO/MR, touche F+6
 - Utilisation et Conseils :
-  - Les bandes sont stockées dans un fichier bands.h personnalisable avec recompilation du firmware (procédure en lien en fin de doc).
+  - Les bandes sont stockées dans un fichier bands.h personnalisable avec recompilation du firmware, il faut me contacter pour cela.
   - Il est possible de paramétrer 32 bandes.
 
 ### Exemple de fichier de configuration
